@@ -32,7 +32,6 @@ const QuickOrder = () => {
       })
     }
 
-  console.log('el resultado', product, search)
 }, [product, search])
 
 
